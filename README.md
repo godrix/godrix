@@ -2,7 +2,7 @@
 ![I'M README RICK!](https://i.imgur.com/JMdZpkO.png)
 
 
-Hey there 👋,	<h1 align="center">Hi 👋, I'm Gabriel</h1>
+Hey there 👋,	
 
 
 I'm Carlos. You can mostly find me on [Twitter](https://twitter.com/godrizilla) or in Brazil 🇧🇷	
