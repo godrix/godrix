@@ -1,0 +1,25 @@
+{
+  "name": "godrix",
+  "version": "1.0.1",
+  "description": "Top Secret Info about godrix",
+  "main": "./godrixInfo.json",
+  "scripts": {
+    "postversion": "npm publish"
+  },
+  "bin": {
+    "godrix": "./godrix.js"
+  },
+  "keywords": [
+    "godrix","mobile", "web"
+  ],
+  "author": "Carlos G. Godri <cggodri@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godrix/godrix.git"
+  },
+  "bugs": {
+    "url": "https://github.com/godrix/godrix/issues"
+  },
+  "homepage": "https://github.com/godrix/godrix#readme"
+}

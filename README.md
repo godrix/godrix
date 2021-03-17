@@ -1,5 +1,7 @@
-### I'M README RICK!
-![I'M README RICK!](https://i.imgur.com/JMdZpkO.png)
+```shell
+npx godrix
+```
+![I'M GODRIX!](https://i.imgur.com/mQtHx4F.gif)
 
 
 Hey there 👋,	
